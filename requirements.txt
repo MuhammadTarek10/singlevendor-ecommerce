@@ -1,0 +1,11 @@
+flask
+flask-restful
+flask-jwt-extended
+flask-sqlalchemy
+numpy
+requests
+python-dotenv
+flask-uploads
+flask-marshmallow
+marshmallow-sqlalchemy
+marshmallow
